@@ -12,9 +12,6 @@ source "https://rubygems.org"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.0"
 
-# This is a third-party theme
-gem "jekyll-athena"
-
 # Gem to manage archives
 gem "jekyll-archives"
 

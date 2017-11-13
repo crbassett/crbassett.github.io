@@ -27,7 +27,6 @@ permalink: /archives/:year/:month/:day/:title.html
 
 # Build settings
 markdown: kramdown
-theme: jekyll-athena
 
 # Gems
 plugins:
