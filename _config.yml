@@ -1,5 +1,5 @@
 # Permalinks
-permalink: date
+permalink: archives/:year/:month/:title.html
 markdown: kramdown
 
 # Setup
@@ -7,7 +7,7 @@ title:               The Long Way
 tagline:             'by Caleb Bassett'
 description:         'There are no shortcuts to goodness, truth, and beauty—you must take the long way. This is a blog on the topics of theology, philosophy, and vocation.'
 url:                 http://crbassett.com
-# baseurl:             '/'
+baseurl:             ''
 paginate:            5
 
 # Assets
@@ -19,28 +19,28 @@ sass:
 
 # About/contact
 author:
-  name:              Caleb Bassett
-  url:               https://twitter.com/crbassett
-  email:             caleb.bassett@gmail.com
+  name: Caleb Bassett
+  url: https://twitter.com/crbassett
+  email: caleb.bassett@gmail.com
 
 # Custom vars
 
-# Gems
+# Plugins
 plugins:
   - jekyll-paginate
   - jekyll-gist
   - jekyll-archives
   
 jekyll-archives:
-  enabled: all
+  enabled:
+    - year
+    - month
+    - categories
   layouts:
     year: year-archive
     month: month-archive
-    day: day-archive
-    tag: tag-archive-layout
+    category: category-archive
   permalinks:
-    year: '/:year/'
-    month: '/:year/:month/'
-    day: '/:year/:month/:day/'
-    tag: '/tag/:name/'
-    category: '/category/:name/'
+    year: /archives/:year/
+    month: /archives/:year/:month/
+    category: /archives/cateogry/:name/
