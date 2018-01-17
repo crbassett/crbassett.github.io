@@ -4,7 +4,7 @@ title: Not by might, nor by power
 date: 2018-01-17 15:11
 ---
 
-I attended a pastoral installation last Sunday in Escondido. One of the customs at such events is for area pastors to participate in the custom of laying on hands while speaking a passage of Scripture as instruction and encouragement to the newly installed pastor. I chose that day to sit with my family during the service (I don’t have many opportunities for that), but from the pew reserved for families with small children I remembered the time I was ordained and installed as a minister at St. Stephen Lutheran Church. One of the verses spoken to me by a colleague and mentor that day was Zechariah 4:6:
+I attended a pastoral installation last Sunday in Escondido. One of the customs at such events is for area pastors to participate in the laying on of hands while speaking a passage of Scripture as encouragement to the newly installed pastor. I chose that day to sit with my family during the service (I don’t have many opportunities for that), but from the pew reserved for families with small children I remembered the time I was ordained and installed as a minister at St. Stephen Lutheran Church. One of the verses spoken to me by a colleague and mentor that day was Zechariah 4:6:
 
 > Not by might nor by power, but by my Spirit,’ says the Lord Almighty.
 
