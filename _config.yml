@@ -5,7 +5,7 @@ markdown: kramdown
 # Setup
 title:               The Long Way
 tagline:             'by Caleb Bassett'
-description:         'There are no shortcuts to goodness, truth, and beauty—you must take the long way.'
+description:         'There's no shortcut to goodness, truth, and beauty. But the long way is worth taking.''
 url:                 http://crbassett.com
 baseurl:             ''
 paginate:            5
