@@ -3,6 +3,9 @@ layout: page
 title: About
 ---
 
+\<div class=“message”\>The Long Way is a blog by Caleb Bassett.\</div\>
+
+
 My name is Caleb Bassett. I'm a husband, father, and Lutheran minister in the Wisconsin Evangelical Lutheran Synod (WELS). I serve a local congregation in Fallbrook, California and lead the technology subcommittee the [WELS Hymnal Project][1].
 
 My interests include theology, philosophy, apologetics, technology, media, and the arts. My writing on this website will generally explore such themes.
